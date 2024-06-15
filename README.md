@@ -17,7 +17,8 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JSON Web Tokens (JWT)
 Real-time Communication: Socket.io
-Deployment: Heroku, MongoDB Atlas
+Deployment: MongoDB Atlas
+
 # Installation
 To run Kanban Board locally, follow these steps:
 
