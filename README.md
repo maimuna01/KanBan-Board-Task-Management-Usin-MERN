@@ -13,10 +13,15 @@ Search and Filter: Quickly find tasks using search and filter options, making it
 Mobile Responsive: Access Kanban Board from any device with a responsive design that adapts to various screen sizes.
 # Technologies Used
 Frontend: React.js, HTML5, CSS3
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT)
+
 Real-time Communication: Socket.io
+
 Deployment: MongoDB Atlas
 
 # Installation
